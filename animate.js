@@ -42,7 +42,7 @@ $(function(){
 					});
 				}
 
-			if(agr<0)//down
+			if(agr<0)//down 
 			{
 				$('.container').removeClass('contaiMer').addClass('contaiNer');
 				$('li[class="hidden"]').each(function(){
